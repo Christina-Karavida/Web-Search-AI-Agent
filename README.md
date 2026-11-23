@@ -150,10 +150,4 @@ Some extensions that could make the agent more capable include:
 - Implementing streaming responses.
 - Adding additional external tools and API integrations.
 
-## License
 
-This project is distributed under the MIT License. See the `LICENSE` file for further details.
-
-## Acknowledgements
-
-Built as a learning project, using the LangChain framework and Groq API to explore the fundamentals of tool-using AI agents.
